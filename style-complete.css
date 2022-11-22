@@ -1,27 +1,27 @@
 * {
   color: white;
-  font-family: 'Segoe UI', Verdana, Tahoma, Geneva, sans-serif;
+  font-family: "Segoe UI", Verdana, Tahoma, Geneva, sans-serif;
   padding: auto;
 }
 body {
   background-color: black;
 }
 header {
-  background-image: url(./img/Records.jpg); background-position: center;
+  background-image: url(./img/Records.jpg);
+  background-position: center;
   background-repeat: no-repeat;
 }
 h1 {
-  
   font-size: 100px;
   text-decoration: solid;
-    text-align: center;
+  text-align: center;
 }
 .Selection {
-    font-size: 25px;
+  font-size: 25px;
   text-decoration: solid;
-    text-align: center;
+  text-align: center;
   background-color: #ef8354;
-  }
+}
 span {
   font-weight: bold;
 }
@@ -37,8 +37,8 @@ a {
   color: #ef8354;
 }
 a:link {
- color: #9c528b;
+  color: #9c528b;
 }
 a:hover {
-  color:#9c528b;
+  color: #9c528b;
 }
